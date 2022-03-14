@@ -73,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 This is a react app that shows the weather condition of any city you type into the search console. A weather api was used to build this application.
 
-You can get the api on this website "https://api.openweathermap.org/data/2.5/"
+You can get the api on this website [API website](https://api.openweathermap.org)
